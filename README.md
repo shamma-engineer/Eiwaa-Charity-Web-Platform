@@ -1,1 +1,99 @@
-# Eiwaa-Charity-Web-Platform
+
+# Eiwaa Charity Web Platform
+
+## Project Overview
+
+Eiwaa Charity Web Platform is a web development project that I independently designed and developed during my cooperative training at Hail Housing Association in Saudi Arabia.
+
+The platform provides an Arabic-language website for a charitable accommodation initiative supporting patients and their companions.
+
+The website includes an informational homepage and an online registration form designed to simplify the accommodation request process.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Responsive Web Design
+
+## Project Features
+
+- Arabic user interface with Right-to-Left (RTL) support.
+- Responsive layout for different screen sizes.
+- Informational homepage introducing the accommodation initiative.
+- Online accommodation registration form.
+- Personal and accommodation information fields.
+- Document upload fields.
+- Input validation for required information.
+- PHP-based server-side form processing.
+- MySQL database integration.
+
+## My Role – Full-Stack Web Developer
+
+I independently designed and developed the entire Eiwaa Charity Web Platform during my cooperative training at Hail Housing Association.
+
+My responsibilities included:
+
+- Designing and developing the website from scratch.
+- Creating the website structure using HTML.
+- Styling and designing responsive Arabic interfaces using CSS.
+- Implementing interactive elements using JavaScript.
+- Developing registration forms and server-side functionality using PHP.
+- Integrating the website with a MySQL database.
+- Implementing form validation and document upload functionality.
+- Testing website features, identifying issues, and troubleshooting errors.
+- Improving the website's usability and overall user experience.
+
+This project allowed me to apply my Computer Engineering knowledge to a real organizational project and gain hands-on experience in full-stack web development.
+
+## Project Structure
+
+- index.html – Main website homepage.
+- login.php – Accommodation registration page.
+- inc/connections.php – Database connection configuration.
+- j.jpeg – Organization logo.
+- database – Database-related development files.
+
+Some files require security review and cleanup before public release.
+
+## Project Status
+
+The platform was developed during my cooperative training.
+
+The repository is being prepared for public portfolio presentation, including code organization, security improvements, and removal of unnecessary database records.
+
+## Organization
+
+Hail Housing Association  
+Hail, Saudi Arabia
+
+This project was developed for the organization during my cooperative training and is shared with its permission.
+
+## Skills Gained
+
+- Full-Stack Web Development
+- Front-End Development
+- Back-End Development
+- Database Integration
+- Responsive Web Design
+- Form Development and Validation
+- System Testing
+- Debugging and Troubleshooting
+- Problem-Solving
+- Independent Project Development
+
+## Developer
+
+**Shamma Thari Alreshidi**
+
+Bachelor's Degree in Computer Engineering  
+University of Hail, Saudi Arabia  
+Graduated: June 2026
+
+**GitHub:**  
+https://github.com/shamma-engineer
+
+**LinkedIn:**  
+https://www.linkedin.com/in/shamma-thari
