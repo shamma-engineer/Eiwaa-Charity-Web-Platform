@@ -186,7 +186,7 @@ The screenshots are intended to demonstrate the system using fictional informati
 ![Booking Request Form](screenshots/booking-form.png)
 
 ### Employee Dashboard
-![Employee Dashboard](screenshots/staff-dashboard.png)
+![Employee Dashboard](screenshots/staff-dashboard-safe.png)
 
 The screenshots will be added after confirming that they contain no confidential information or unauthorized branding.
 
