@@ -21,15 +21,19 @@ The platform includes an Arabic-language website, an online accommodation reques
 
 ## Project Features
 
-- Arabic user interface with Right-to-Left (RTL) support.
-- Responsive layout for different screen sizes.
-- Informational homepage introducing the accommodation initiative.
-- Online accommodation registration form.
-- Personal and accommodation information fields.
-- Document upload fields.
-- Input validation for required information.
-- PHP-based server-side form processing.
+
+- Arabic user interface with RTL support.
+- Responsive website design.
+- Online medical accommodation request form.
+- Form validation using JavaScript and PHP.
 - MySQL database integration.
+- Staff login with password hashing.
+- Private employee dashboard.
+- Application details and document previews.
+- Image and PDF upload support.
+- Protected document access for authenticated staff.
+- Session management and CSRF protection.
+- Local testing and debugging using XAMPP.
 
 ## My Role – Full-Stack Web Developer
 
