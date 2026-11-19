@@ -3,11 +3,12 @@
 
 ## Project Overview
 
-Eiwaa Charity Web Platform is a web development project that I independently designed and developed during my cooperative training at Hail Housing Association in Saudi Arabia.
 
-The platform provides an Arabic-language website for a charitable accommodation initiative supporting patients and their companions.
+Eiwaa Charity Web Platform is a medical accommodation booking system originally developed in January 2026 during my cooperative training at Hail Housing Association in Saudi Arabia.
 
-The website includes an informational homepage and an online registration form designed to simplify the accommodation request process.
+After graduating in June 2026, I independently enhanced the project by improving the booking workflow, MySQL database integration, staff dashboard, document handling, and access controls.
+
+The platform includes an Arabic-language website, an online accommodation request form, and a private employee dashboard for reviewing applications and viewing uploaded images and PDF documents.
 
 ## Technologies Used
 
