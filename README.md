@@ -1,10 +1,11 @@
+
 # Eiwaa Charity Web Platform
 ### Medical Accommodation Booking System
 
 A full-stack web development project designed to simplify medical accommodation requests and support staff in managing applications for patients and their companions.
 
 **Developer:** Shamma Thari Alreshidi  
-**Original Development:** January 2026  
+**Project Start:** December 2025  
 **Post-Graduation Enhancements:** 2026  
 **Project Type:** Full-Stack Web Application  
 **Status:** Functional Local Prototype
@@ -13,13 +14,13 @@ A full-stack web development project designed to simplify medical accommodation 
 
 ## Project Overview
 
-Eiwaa Charity Web Platform is a medical accommodation booking system originally designed and developed in January 2026 during my cooperative training at Hail Housing Association in Saudi Arabia.
+Eiwaa Charity Web Platform is a medical accommodation booking system that I began designing and developing in December 2025 during my cooperative training at Hail Housing Association in Saudi Arabia.
 
 After graduating in June 2026, I independently revisited and enhanced the project by improving its booking workflow, database integration, staff dashboard, document handling, and access controls.
 
 The platform provides an Arabic-language website where applicants can submit accommodation requests, enter personal and booking information, and upload supporting documents.
 
-An additional private employee dashboard allows authorized staff to sign in, review submitted applications, and view uploaded images and PDF documents.
+A private employee dashboard allows authorized staff to sign in, review submitted applications, and view uploaded images and PDF documents.
 
 The project demonstrates my practical experience in full-stack web development, database management, authentication, debugging, and software testing.
 
@@ -111,7 +112,7 @@ The project demonstrates my practical experience in full-stack web development, 
 - Verification of saved database records.
 - Testing employee authentication.
 - Testing image and PDF document viewing.
-- Verification that documents cannot be accessed after logout.
+- Verification of restricted document access.
 
 ---
 
@@ -121,7 +122,7 @@ I independently designed and developed the original Eiwaa Charity Web Platform d
 
 Following graduation, I continued improving the project independently.
 
-### During Cooperative Training – January 2026
+### During Cooperative Training – December 2025 to January 2026
 
 My responsibilities included:
 
@@ -177,7 +178,7 @@ These improvements helped transform the original website into a functional local
 
 ## Screenshots
 
-The screenshots are intended to demonstrate the system using fictional information only.
+The screenshots demonstrate the system using fictional or redacted information.
 
 ### Homepage
 ![Eiwaa Homepage](screenshots/homepage.png)
@@ -187,8 +188,6 @@ The screenshots are intended to demonstrate the system using fictional informati
 
 ### Employee Dashboard
 ![Employee Dashboard](screenshots/staff-dashboard-safe.png)
-
-The screenshots will be added after confirming that they contain no confidential information or unauthorized branding.
 
 ---
 
@@ -219,8 +218,8 @@ For privacy and security reasons:
 - Database credentials are not published.
 - Private database records are not published.
 - Employee passwords and authentication sessions are not shared.
-- Screenshots must use fictional information only.
-- Organization-specific materials are subject to publication permission.
+- Screenshots use fictional or redacted information.
+- Organization-specific materials are shared with permission.
 
 The private employee dashboard and document access controls were tested in the local development environment.
 
@@ -232,15 +231,17 @@ The operational source code and confidential files are not part of the public po
 
 ## Project Status
 
-**January 2026:** Original website developed during cooperative training.
+**December 2025:** Started developing the original website during cooperative training.
 
-**June 2026:** Graduation from the University of Hail.
+**January 2026:** Completed the cooperative training period.
 
-**After Graduation – 2026:** Independent improvements to the booking workflow, database integration, document handling, and private employee dashboard.
+**June 2026:** Graduated from the University of Hail.
 
-**Current Status:** Local prototype successfully tested for request submission, database storage, employee authentication, and image/PDF viewing.
+**After Graduation – 2026:** Independently enhanced the booking workflow, database integration, document handling, and private employee dashboard.
 
-The portfolio repository is being prepared with safe documentation, demonstration screenshots, and any approved materials.
+**November 2026:** Successfully tested the local prototype for request submission, database storage, employee authentication, and image/PDF viewing.
+
+The repository presents project documentation, screenshots, and approved portfolio materials.
 
 ---
 
@@ -250,8 +251,6 @@ The portfolio repository is being prepared with safe documentation, demonstratio
 Hail, Saudi Arabia
 
 The original project was developed during my cooperative training with the organization.
-
-Any public sharing of organization-specific code, branding, or materials is subject to the organization's permission.
 
 ---
 
@@ -297,4 +296,3 @@ This repository is intended for educational and professional portfolio presentat
 It does not contain real beneficiary data, confidential documents, or private operational credentials.
 
 The project should not be considered production-ready without further security review, organizational authorization, and appropriate deployment safeguards.
-
